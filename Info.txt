@@ -1,0 +1,4 @@
+These need to be set up as scripts in bluestacks
+
+e = tap   90.9036 3.10825
+r = tap  93.6747 4.93033
